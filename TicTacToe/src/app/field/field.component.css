@@ -1,0 +1,14 @@
+div{
+  background: #2f2f2f;
+  width: 10rem;
+  height: 10rem;
+  border: whitesmoke 3px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p{
+  color: whitesmoke;
+  font-size: xxx-large;
+  font-family: Arial, sans-serif;
+}
