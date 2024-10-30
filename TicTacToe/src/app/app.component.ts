@@ -11,6 +11,7 @@ import {FieldComponent} from './field/field.component';
 })
 export class AppComponent {
   title = 'TicTacToe';
+
   public nextPlayer: WritableSignal<string | null> = signal('X');
   public map: string[][] = [['', '', ''], ['', '', ''], ['', '', '']];
 
